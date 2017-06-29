@@ -1,5 +1,5 @@
 # [AndroidTemplates](https://github.com/gotoark/AndroidTemplates)
-A Collection of Code Templates for Android Developers by RAJESH KUMAR ARUMUGAM :)
+A Collection of Code Templates for Android Developers :)
 ![Developer's Logo](/gifs/AndroidDevelopers.png?raw=true "Android Developer's Logo") 
 
 ## List Of Templates: :clipboard:
