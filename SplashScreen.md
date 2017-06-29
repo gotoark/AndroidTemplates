@@ -6,6 +6,7 @@
  * Define a Custom Splash Screen theme
  * Add the theme to the activity in  Manifest
  * Create Splash Activity
+ * Have a Cup of Cofee :coffee:
 
 
 ### 1. Add Splash Screen Drawable
