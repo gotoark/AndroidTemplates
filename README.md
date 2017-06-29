@@ -1,6 +1,6 @@
 # [AndroidTemplates](https://github.com/gotoark/AndroidTemplates)
 A Collection of Code Templates for Android Developers by RAJESH KUMAR ARUMUGAM :)
-![Developer's Logo](/gifs/AndroidDevelopers.png?raw=true "Android Developer's Logo") ![Android Studio Logo](/gifs/AndroidStudio.png?raw=true "Android Studio Logo")
+![Developer's Logo](/gifs/AndroidDevelopers.png?raw=true "Android Developer's Logo") 
 
 ## List Of Templates: :clipboard:
  *  #### [Splash Screen](https://github.com/gotoark/AndroidTemplates/blob/master/SplashScreen.md)
