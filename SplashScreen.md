@@ -1,4 +1,4 @@
-# :boom: Splash Screen :boom:
+# [Android Templates](https://github.com/gotoark/AndroidTemplates/blob/master/READ.md)) - :boom: Splash Screen :boom:
 
 ### ToDo: :clipboard:
 
