@@ -1,4 +1,7 @@
 # [AndroidTemplates](https://github.com/gotoark/AndroidTemplates)
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/aab34ad03eda4b57a61dc2b8682caaf1)](https://app.codacy.com/app/gotoark/AndroidTemplates?utm_source=github.com&utm_medium=referral&utm_content=gotoark/AndroidTemplates&utm_campaign=Badge_Grade_Dashboard)
+
 A Collection of Code Templates and Guidelines  for Android Developers :)
 ![Developer's Logo](/gifs/AndroidDevelopers.png?raw=true "Android Developer's Logo") 
 
